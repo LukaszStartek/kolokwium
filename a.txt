@@ -1,0 +1,5 @@
+a=1
+b=3
+def dodaj(a,b):
+    wynik=a+b
+    return wynik
