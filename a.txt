@@ -1,5 +1,12 @@
+
 a=1
 b=3
 def dodaj(a,b):
     wynik=a+b
     return wynik
+
+def f(x):
+	return x**2
+
+print(f(3))
+
