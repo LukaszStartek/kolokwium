@@ -1,0 +1,2 @@
+To jest pierwszy plik Lukasza.
+A to jest pierwsza zmiana.
